@@ -10,6 +10,10 @@ Paso 2
 
 ./azre.sh
 
+# una ves ejecutada siga las cosas que le pide y todo se configura de manera automatica 
+
+# descomprimir
+
 Observaciones
 
 Tener instalado named y httpd

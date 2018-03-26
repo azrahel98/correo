@@ -1,0 +1,2 @@
+# dns
+Script experimental

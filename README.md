@@ -29,7 +29,7 @@ este seria incorrecto (se solucionaria de manera manual entrando a /var/named/re
 
 
 
-23 IN PTR  dns.cruz.cr.
+23 IN PTR  dns.azre.com.
 
 
 23 IN PTR CLIENT 

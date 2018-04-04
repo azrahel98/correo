@@ -1,35 +1,8 @@
-# dns
-Script experimental
+Script para DNS y FTP 
+Con autenticacion de usuarios 
 
 
-Paso 1
-
-sudo chmod ugo+wrx azre.sh
-
-Paso 2  
-
-./azre.sh
-
-# una ves ejecutada siga las cosas que le pide y todo se configura de manera automatica 
-
-# descomprimir
-
-Observaciones
-
-Tener instalado named y httpd
-
-al ser experimental solo acepta ip de este formato para ip de servidor
-192.168.10.23 este tipo de ip si funciona 
-
-192.168.1.2 este no funcionaria por la cantidad de caracteres que tiene el valor puede cambiar a cualquier ip solo no funciona por la cantidad de caracteres que tiene 
-
-este seria incorrecto (se solucionaria de manera manual entrando a /var/named/reverse y cambiar los digitos )
+Si tienes alguna duda no dudes en hablarme
 
 
-
-
-
-23 IN PTR  dns.azre.com.
-
-
-23 IN PTR CLIENT 
+prepara tu servidor en 4s (servicio basico , funciona perfectamente)
